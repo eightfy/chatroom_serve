@@ -16,7 +16,7 @@ using namespace std;
 
 #define PORT 8888
 #define QUEUE 20
-char ip[] = "101.43.84.223";
+char ip[] = "xxx.xx.xx.xxx";
 enum Flag
 {
     OUT = 0,
